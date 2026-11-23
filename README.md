@@ -38,7 +38,7 @@ I build thoughtful web interfaces with a focus on usability, accessibility, and 
 - React · TypeScript 기반 반응형 웹 인터페이스
 - 결과 이미지 저장 및 공유
 
-**[Live Website](https://pickdna.com)** · **[GitHub Repository](https://github.com/jayden-jy/PickDNA)**
+**[🌐 Visit PickDNA](https://pickdna.com)**
 
 ---
 
