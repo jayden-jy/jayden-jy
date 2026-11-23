@@ -35,6 +35,8 @@ HTML, CSS, JavaScript를 활용한 화면 구현과 반응형 웹, 웹 접근성
 
 #### [PickDNA](https://pickdna.com)
 
+![PickDNA 프로젝트 미리보기](./pickdna-github-preview.png)
+
 치지직 스트리머 3~5명의 공개 방송 데이터를 분석하고, 선택한 조합의 특징을 DNA 형태로 시각화하는 개인 웹 프로젝트입니다.
 
 **주요 기능**
