@@ -3,6 +3,8 @@
 
 ### Web Publisher · Frontend UI Developer
 
+**[Portfolio](https://jayden-portfolio.pickdna-validation-c77e73b2.workers.dev)**
+
 웹 퍼블리싱을 기반으로 React와 TypeScript를 활용한 UI 개발을 하고 있습니다.
 
 HTML, CSS, JavaScript를 활용한 화면 구현과 반응형 웹, 웹 접근성에 관심을 가지고 작업하고 있습니다.
